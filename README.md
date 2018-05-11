@@ -9,8 +9,8 @@
 | Shriyansh Yadav | scyadav |
 | Urmil Parikh | uparikh |
 
-## Complete DevOps Pipeline Demo: [Link](https://youtu.be/O_8tCQAwt64)
-## Special Milestone Demo: [Link](https://youtu.be/0c2K9acPxyw)
+## Special Milestone Demo
+[<img src="https://img.youtube.com/vi/0c2K9acPxyw/0.jpg" href="Click to Watch" title="Click to Watch" height="250" width="350">](https://youtu.be/0c2K9acPxyw)
 
 ## 1. Doctor Monkey
 
@@ -22,9 +22,9 @@
 
 ### Implementation
 
-* We extended the same code base from the previous [Deployment](https://github.ncsu.edu/rjain9/CSC519DevOps-Project/tree/Deployment) milestone. 
+* We extended the same code base from the previous [Deployment](https://github.com/omkaracharya/Complete-DevOps-Pipeline/tree/Deployment) milestone. 
 
-* First, follow instruction from Deployment Milestone's [README](https://github.ncsu.edu/rjain9/CSC519DevOps-Project/tree/Deployment/README.md). **Make sure that both checkbox.io servers are up and running before running the proxy server.** 
+* First, follow instruction from Deployment Milestone's [README](https://github.com/omkaracharya/Complete-DevOps-Pipeline/tree/Deployment/README.md). **Make sure that both checkbox.io servers are up and running before running the proxy server.** 
 
 * You may want to change the checkbox server IPs in [checkbox-servers](doctor-monkey/checkbox-servers). We used the same `Jenkins` server from the previous milestone as our proxy server. So, you may also want to modify [this](doctor-monkey/server.js#L22) IP address and put the `Jenkins` server IP address. Make sure that this same [server.js](doctor-monkey/server.js) file with the updated IP is present on the two checkbox servers. If not, stop the current servers and reboot them with the updated server file. 
 
