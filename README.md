@@ -12,11 +12,11 @@
 
 ## Architecture Diagram
 
-<img src="https://github.ncsu.edu/rjain9/CSC519DevOps-Project/blob/ConfigAndBuild/images/Architecture.png" width="1000"> 
+<img src="images/Architecture.png" width="1000"> 
 
 ## Directory Structure
 
-<img src="https://github.ncsu.edu/rjain9/CSC519DevOps-Project/blob/ConfigAndBuild/images/DirectoryStructure.png"> 
+<img src="images/DirectoryStructure.png"> 
 
 ## Instructions for code execution
 
